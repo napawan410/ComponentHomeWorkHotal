@@ -1,0 +1,10 @@
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HotalConnect\obj\Debug\HotalConnect.csprojResolveAssemblyReference.cache
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HotalConnect\bin\Debug\HotalConnect.dll
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HotalConnect\bin\Debug\HotalConnect.pdb
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HotalConnect\obj\Debug\HotalConnect.dll
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HotalConnect\obj\Debug\HotalConnect.pdb
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HotalConnect\bin\Debug\HotalConnect.dll
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HotalConnect\bin\Debug\HotalConnect.pdb
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HotalConnect\obj\Debug\HotalConnect.csprojResolveAssemblyReference.cache
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HotalConnect\obj\Debug\HotalConnect.dll
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HotalConnect\obj\Debug\HotalConnect.pdb

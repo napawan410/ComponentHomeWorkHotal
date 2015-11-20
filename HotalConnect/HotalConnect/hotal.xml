@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotals>
+  <Hotal HotalID="0001">
+    <HotalName>AAA</HotalName>
+    <RoomType Type="Sweet">
+      <Allotment>28</Allotment>
+      <Price>600</Price>
+    </RoomType>
+    <RoomType Type="deluxe">
+      <Allotment>20</Allotment>
+      <Price>500</Price>
+    </RoomType>
+    <RoomType Type="single">
+      <Allotment>50</Allotment>
+      <Price>300</Price>
+    </RoomType>
+    <Information>PSU</Information>
+  </Hotal>
+  <Hotal HotalID="0002">
+    <HotalName>AAA</HotalName>
+    <RoomType Type="Sweet">
+      <Allotment>20</Allotment>
+      <Price>600</Price>
+    </RoomType>
+    <RoomType Type="deluxe">
+      <Allotment>30</Allotment>
+      <Price>500</Price>
+    </RoomType>
+    <RoomType Type="single">
+      <Allotment>60</Allotment>
+      <Price>300</Price>
+    </RoomType>
+    <Information>Phuket</Information>
+  </Hotal>
+</Hotals>

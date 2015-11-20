@@ -1,0 +1,22 @@
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\bin\Debug\HOTEL.exe.config
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\bin\Debug\HOTEL.exe
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\bin\Debug\HOTEL.pdb
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\obj\Debug\HOTEL.csprojResolveAssemblyReference.cache
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\obj\Debug\HOTEL.Properties.Resources.resources
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\obj\Debug\HOTEL.csproj.GenerateResource.Cache
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\obj\Debug\HOTEL.exe
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\obj\Debug\HOTEL.pdb
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\obj\Debug\HOTEL.Form1.resources
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\bin\Debug\HotalConnect.dll
+c:\users\std-pc\documents\visual studio 2013\Projects\HotalConnect\HOTEL\bin\Debug\HotalConnect.pdb
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\bin\Debug\HOTEL.exe.config
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\obj\Debug\HOTEL.exe
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\obj\Debug\HOTEL.pdb
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\bin\Debug\HOTEL.exe
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\bin\Debug\HOTEL.pdb
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\bin\Debug\HotalConnect.dll
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\bin\Debug\HotalConnect.pdb
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\obj\Debug\HOTEL.csprojResolveAssemblyReference.cache
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\obj\Debug\HOTEL.Form1.resources
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\obj\Debug\HOTEL.Properties.Resources.resources
+D:\การเรียน\ปี3เทอม 1\ปี3เทอม 1\Component based\การบ้าน\HotalConnect\HOTEL\obj\Debug\HOTEL.csproj.GenerateResource.Cache
